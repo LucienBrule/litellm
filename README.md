@@ -1,3 +1,15 @@
+# Litellm Fork
+
+This is a fork of the [original Litellm repository](https://github.com/original-user/litellm) by Berri AI.
+
+## Modifications
+- The `enterprise/` directory has been removed in this fork.
+
+[Original License](LICENSE)
+
+---
+---
+
 <h1 align="center">
         🚅 LiteLLM
     </h1>
